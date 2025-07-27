@@ -1,2 +1,2 @@
-# DZ3HTML
-html_example
+# html_example
+Пример простой вед страницы
